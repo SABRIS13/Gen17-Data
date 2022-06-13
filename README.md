@@ -1,6 +1,6 @@
 # Pyhton for Data Science
 
-###### This repository will contain key Python tools we need to understand data Science. This Python´s tools were learned in the "Professional in Data Science/AI" by DEV.F. 
+###### This repository will contain key Python tools we need to understand Data Science. This Python´s tools were learned in the "Professional in Data Science/AI" by DEV.F. 
 ---
 ### Sumary:
 ###### -Pyhton Introduction
